@@ -1,0 +1,10 @@
+export const SHOW_LOAD = 'SHOW_LOAD';
+export const HIDE_LOAD = 'HIDE_LOAD';
+
+export const LOAD_API_KEYS = 'LOAD_API_KEYS';
+export const ADD_API_KEY = 'ADD_API_KEY';
+export const REMOVE_API_KEY = 'REMOVE_API_KEY';
+
+export const LOAD_NOTIFICATIONS = 'LOAD_NOTIFICATIONS';
+export const ADD_NOTIFICATION = 'ADD_NOTIFICATION';
+export const REMOVE_NOTIFICATION = 'REMOVE_NOTIFICATION';
