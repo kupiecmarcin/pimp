@@ -21,7 +21,6 @@ class Container extends Component {
 }
 
 function mapStateToProps(state) {
-  console.log(state);
   return { keys: state.keys };
 }
 
